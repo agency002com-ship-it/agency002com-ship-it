@@ -2,17 +2,10 @@
 
 Athens night desk. €120 once: a live local page the same night you pay.
 
-Same-night tills (apex still says a working day):
+Public till: [tonight.agency002.com](https://tonight.agency002.com/)
 
-- [tonight.agency002.com](https://tonight.agency002.com/)
-- [desk.agency002.com](https://desk.agency002.com/)
-- [desk.120.cash](https://desk.120.cash/)
-- [now.keychain.gr](https://now.keychain.gr/)
-- [apopse.120.cash](https://apopse.120.cash/)
-- [shop.120.cash](https://shop.120.cash/)
-- [now.agency002.com](https://now.agency002.com/)
-- [English till](https://agency002com-ship-it.github.io/)
-- [Perissos](https://agency002com-ship-it.github.io/perissos.html)
-- [Ελληνικά](https://agency002com-ship-it.github.io/el.html)
+Greek: [el.html](https://agency002com-ship-it.github.io/el.html) · Perissos: [perissos.html](https://agency002com-ship-it.github.io/perissos.html)
+
+Existing wait-a-day sites still sell the same jobs: [sebarv.com](https://sebarv.com/) (€120), [agency002.com](https://agency002.com/) (€100 / €350), [keychain.gr](https://keychain.gr/) (pay desk).
 
 No cold email. Phone optional.
