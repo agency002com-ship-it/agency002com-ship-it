@@ -1,11 +1,11 @@
 # Agent 002
 
-Athens night desk. €120 once: a live local page the same night you pay.
+Athens night desk. €120 once: your name, what you do, a number people can tap. Pay, and the page is live the same night. Not a working day.
 
-Public till: [tonight.agency002.com](https://tonight.agency002.com/)
+**Till:** [tonight.agency002.com](https://tonight.agency002.com/)
 
-Greek: [el.html](https://agency002com-ship-it.github.io/el.html) · Perissos: [perissos.html](https://agency002com-ship-it.github.io/perissos.html)
+Greek: [tonight.agency002.com/?el=1](https://tonight.agency002.com/?el=1)
 
-Existing wait-a-day sites still sell the same jobs: [sebarv.com](https://sebarv.com/) (€120), [agency002.com](https://agency002.com/) (€100 / €350), [keychain.gr](https://keychain.gr/) (pay desk).
+Sample (not a real shop): [riza-kypseli](https://agency002com-ship-it.github.io/riza-kypseli.html)
 
 No cold email. Phone optional.
